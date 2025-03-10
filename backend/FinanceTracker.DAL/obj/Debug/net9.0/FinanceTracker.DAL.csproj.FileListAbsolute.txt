@@ -1,0 +1,17 @@
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\bin\Debug\net9.0\FinanceTracker.DAL.deps.json
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\bin\Debug\net9.0\FinanceTracker.DAL.runtimeconfig.json
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\bin\Debug\net9.0\FinanceTracker.DAL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\bin\Debug\net9.0\FinanceTracker.DAL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\bin\Debug\net9.0\FinanceTracker.BOL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\bin\Debug\net9.0\FinanceTracker.BOL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.csproj.AssemblyReference.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.AssemblyInfoInputs.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.AssemblyInfo.cs
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.csproj.CoreCompileInputs.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceT.29CE20C7.Up2Date
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\refint\FinanceTracker.DAL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.genruntimeconfig.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\ref\FinanceTracker.DAL.dll

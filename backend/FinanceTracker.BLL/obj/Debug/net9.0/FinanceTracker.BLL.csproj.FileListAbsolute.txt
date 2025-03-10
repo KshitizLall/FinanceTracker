@@ -1,0 +1,17 @@
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\bin\Debug\net9.0\FinanceTracker.BLL.deps.json
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\bin\Debug\net9.0\FinanceTracker.BLL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\bin\Debug\net9.0\FinanceTracker.BLL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\bin\Debug\net9.0\FinanceTracker.BOL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\bin\Debug\net9.0\FinanceTracker.DAL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\bin\Debug\net9.0\FinanceTracker.BOL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\bin\Debug\net9.0\FinanceTracker.DAL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.csproj.AssemblyReference.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.AssemblyInfoInputs.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.AssemblyInfo.cs
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.csproj.CoreCompileInputs.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceT.36B6EF85.Up2Date
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\refint\FinanceTracker.BLL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\ref\FinanceTracker.BLL.dll

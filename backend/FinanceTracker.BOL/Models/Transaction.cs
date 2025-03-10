@@ -1,0 +1,4 @@
+namespace FinanceTracker.BOL.Models
+{
+    
+}

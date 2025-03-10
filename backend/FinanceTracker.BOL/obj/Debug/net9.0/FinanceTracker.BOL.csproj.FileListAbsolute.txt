@@ -1,0 +1,11 @@
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\bin\Debug\net9.0\FinanceTracker.BOL.deps.json
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\bin\Debug\net9.0\FinanceTracker.BOL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\bin\Debug\net9.0\FinanceTracker.BOL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTracker.BOL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTracker.BOL.AssemblyInfoInputs.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTracker.BOL.AssemblyInfo.cs
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTracker.BOL.csproj.CoreCompileInputs.cache
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTracker.BOL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\refint\FinanceTracker.BOL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTracker.BOL.pdb
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\ref\FinanceTracker.BOL.dll
