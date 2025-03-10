@@ -9,3 +9,4 @@ F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTr
 F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\refint\FinanceTracker.BOL.dll
 F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTracker.BOL.pdb
 F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\ref\FinanceTracker.BOL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BOL\obj\Debug\net9.0\FinanceTracker.BOL.sourcelink.json

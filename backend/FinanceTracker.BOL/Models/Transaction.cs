@@ -1,3 +1,6 @@
+// FinanceTracker.BOL/Models/Transaction.cs
+using System;
+
 namespace FinanceTracker.BOL.Models
 {
     public class Transaction

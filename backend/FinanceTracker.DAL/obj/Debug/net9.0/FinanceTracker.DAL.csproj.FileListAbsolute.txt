@@ -15,3 +15,4 @@ F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\refint\Fi
 F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.pdb
 F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.genruntimeconfig.cache
 F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\ref\FinanceTracker.DAL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.DAL\obj\Debug\net9.0\FinanceTracker.DAL.sourcelink.json

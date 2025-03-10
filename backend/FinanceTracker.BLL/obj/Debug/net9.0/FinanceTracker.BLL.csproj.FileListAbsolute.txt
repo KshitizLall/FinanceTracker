@@ -15,3 +15,4 @@ F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTr
 F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\refint\FinanceTracker.BLL.dll
 F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.pdb
 F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\ref\FinanceTracker.BLL.dll
+F:\Projects\FinanceTracker\backend\FinanceTracker.BLL\obj\Debug\net9.0\FinanceTracker.BLL.sourcelink.json
